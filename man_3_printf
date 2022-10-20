@@ -1,6 +1,6 @@
 .\" Manpage for Our _Printf Project.
 .\"
-.TH man 1 "08 Aug 2022" "1.0" "_Printf Project man page"
+.TH man 1 "20 Oct 2022" "1.0" "_Printf Project man page"
 .SH NAME
 ._Printf
 \- This function produces output according to a format.
@@ -45,4 +45,4 @@ printf(1), _printf(2), printf(3), sprintf(), snprintf(), vsprintf(), vsnprintf()
 If there is a bug, report to Joseph Lweya or Byron Odhiambo
 
 .SH AUTHOR
-Joseph Lweya and Byron Odhiambo - Students at ALX Africa - Kenya.
+Keith Kadima and Nicholus Mwenda - Students at ALX Africa - Kenya.
