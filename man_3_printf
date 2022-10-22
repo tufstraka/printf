@@ -4,7 +4,7 @@
 .\"
 .\"
 .\"
-.TH _PRINTF "July 12 2022" "0.1" "Library functions manual"
+.TH _PRINTF "20th October 2022" "0.1" "Library functions manual"
 
 .SH NAME
 .SH ""
@@ -125,8 +125,5 @@ hexadecimal preceded by \x
 .SH "AUTHORS"
 .SH ""
 
-Ejiogu Victor and Kelechi Anyaegbu
+Kadima Keith | Nicholus Mwenda
 
-.B Twitter
-.PP
-@willsssss_ and @Kellyxglobal
